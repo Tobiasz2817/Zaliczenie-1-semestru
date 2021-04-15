@@ -1,0 +1,86 @@
+[
+    {
+      "pytanie": "1. Jednostka centralna to ? ",
+      "A.": "komputer",
+      "B.": "karta graficzna",
+      "C.": "procesor ",
+      "D.": "pamiec ram",
+      "poprawna_odpowiedz": "C"
+    },
+    {
+        "pytanie": "2. Notacja ++ jest operatorem ? ",
+        "A.": "Jednostronnym ",
+        "B.": "Dwustronnym",
+        "C.": "Trzystronnym",
+        "D.": "Nie jest operatorem",
+        "poprawna_odpowiedz": "A"
+    },
+    {
+        "pytanie": "3. Co to jest zip ? ",
+        "A.": "Rozszerzenie dzwieku",
+        "B.": "Rodzaj kodeka muzycznego",
+        "C.": "Rozszerzenie obrazka ",
+        "D.": "Format kompresji plikow ",
+        "poprawna_odpowiedz": "D"
+    },
+    {
+        "pytanie": "4. Wirusem dajacym dostep do komputera bez wiedzy uzytkownika jest ? ",
+        "A.": "Backdoor",
+        "B.": "Trojan",
+        "C.": "Malware",
+        "D.": "Nimda",
+        "poprawna_odpowiedz": "A"
+    },
+    {
+        "pytanie": "5. Do czego sluzy hiperlacze? ",
+        "A.": "Do otwierania stron www",
+        "B.": "Do przyspieszania internetu",
+        "C.": "Do wysylania filmow ",
+        "D.": "Do czytania dokumentow",
+        "poprawna_odpowiedz": "A"
+    },
+    {
+        "pytanie": "6. Kompilator to ?",
+        "A.": "Urzadzenie uzywane do weryfikacji poprawnosci kodu programu ",
+        "B.": "Program umozliwiajacy sprawne wyszukanie bledow w kodzie (przechodzac po nim linijka po linijce)",
+        "C.": "Program tlumaczacy kod zrodlowy programu na kod maszynowy ",
+        "D.": "Srodowisko programistyczne",
+        "poprawna_odpowiedz": "C"
+    },
+    {
+        "pytanie": "7. Do czego odnosza sie modyfikatory public, private i protected ? ",
+        "A.": "Dziedziczenia",
+        "B.": "Przestrzeni nazw",
+        "C.": "Polimorfizmu",
+        "D.": "Klas abstrakcyjnych",
+        "poprawna_odpowiedz": "A"
+    }
+    ,
+    {
+        "pytanie": "8. Drzewo binarne to struktura danych, w ktorej ?    ",
+        "A.": "Moga byc przechowywane jedynie liczby 0 i 1       ",
+        "B.": "Kazdy wezel musi miec dokladnie dwoch synow ",
+        "C.": "Kazdy wezel moze miec nie wiecej niz dwoch synow",
+        "D.": "Zadna z powyzszych",
+        "poprawna_odpowiedz": "C"
+    },
+    {
+        "pytanie": "9. Charakterystycznym jezykiem programowania back-end owym jest ? ",      
+        "A.": "PHP",
+        "B.": "CSS",
+        "C.": "JavaScript",
+        "D.": "HTML",
+        "poprawna_odpowiedz": "A"
+    },
+    {
+        "pytanie": "10. Przestrzenie nazw zapobiegaja problemowi ? ",
+        "A.": "Przegladarke internetowa",
+        "B.": "System operacyjny",
+        "C.": "Obie odpowiedzi sa prawdziwe",
+        "D.": "Zadna odpowiedz nie jest prawdziwa",
+        "poprawna_odpowiedz": "C"
+    }
+ 
+    
+ ]
+ 
